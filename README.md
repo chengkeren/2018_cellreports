@@ -3,5 +3,6 @@ The Mammalian Spermatogenesis Single-Cell Transcriptome, from Spermatogonial Ste
 https://www.sciencedirect.com/science/article/pii/S2211124718316024
 
 Welcome!
+
 I will try to reproduce the analysis in the article.
-Many software packages have been upgraded, or there are now better ways to analyze the data. Therefore, we apologize for not being able to reproduce some of the details. The ideal goal is to aim for complete consistency in the replication of data analysis.
+Many packages have been upgraded, or there are now better ways to analyze the data. Therefore, I apologize for not being able to reproduce some of the details. The ideal goal is to aim for complete consistency in the replication of data analysis.
